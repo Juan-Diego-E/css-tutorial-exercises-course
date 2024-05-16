@@ -1,1 +1,31 @@
 /* add your styles here */
+* {
+	font-family: "Times New Roman";
+	padding-left: 20px;
+}
+
+body {
+	background: url(../../.learn/assets/background-vertical.jpg?raw=true) repeat-y;
+}
+
+h1 {
+	font-family: "Courier" !important;
+	color: red;
+}
+
+h2 {
+	text-decoration: underline;
+}
+
+p:first-child {
+	background: rgba(red, green, blue, 0.2);
+}
+
+p{
+    padding: 5px;
+}
+
+a:hover {
+	color: green;
+	text-decoration: none;
+}

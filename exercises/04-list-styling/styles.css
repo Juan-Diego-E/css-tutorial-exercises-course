@@ -3,6 +3,12 @@ body {
 	background: rgb(189, 189, 189);
 }
 
+ul {
+	list-style-type: armenian;
+	margin: 0;
+	padding: 0;
+}
+
 .container {
 	font-family: "Comic Sans MS", "Comic Sans", cursive;
 	margin: 0 auto;
